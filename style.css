@@ -1,3 +1,4 @@
+/* general css applies to all pages in portfolio */
 body {
     background-color: #E6DBD1;
     
@@ -62,3 +63,25 @@ body {
 .homepg p {
     color: #8C8388;
 }
+/* end of home page css */
+
+
+/* only used on about page */
+.about {
+    flex: 4;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #676064;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+/* end of about */
+
+
+/* only used on projects page */
+/* end of projects page */
+
+
+/* only used on contact page */
+/* end of contact page */
