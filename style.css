@@ -18,6 +18,7 @@ body {
     align-items: center;
     background-color: #748277;
     min-height: 100vh;
+    border: 1px solid #676064;
 }
 
 .sidenav a {
@@ -42,6 +43,7 @@ body {
     margin-bottom: 40px;
 }
 
+/* only used on the home page */
 .homepg {
     flex: 4;
     align-items: center;
