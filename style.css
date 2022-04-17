@@ -75,14 +75,33 @@ body {
     font-weight: bold;
     text-align: center;
 }
-
-
 /* end of about */
 
 
 /* only used on projects page */
+.projects {
+    display: flex;
+    flex-direction: row;
+    justify-content: baseline;
+}
+
+.proj1 {
+    flex: 1;
+}
+
+.proj2 {
+    flex: 1;
+}
 /* end of projects page */
 
 
 /* only used on contact page */
+.contact {
+    flex: 4;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #676064;
+    font-weight: bold;
+    text-align: center;
+}
 /* end of contact page */
