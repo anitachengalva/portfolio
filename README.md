@@ -1,6 +1,4 @@
-# hw2-portfolio
-
-PORTFOLIO
+# Portfolio
 
     live deployed link: https://anitachengalva.github.io/portfolio/
 
