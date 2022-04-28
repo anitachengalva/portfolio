@@ -1,6 +1,7 @@
 # PORTFOLIO
 
-    live deployed link: https://anitachengalva.github.io/portfolio/
+## Link
+live deployed link: https://anitachengalva.github.io/portfolio/
 
 ## Description
 In this project, I worked in HTML and CSS.
