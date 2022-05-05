@@ -64,7 +64,7 @@ body {
 .homepg p {
     color: #8C8388;
 }
-/* end of home page css */
+/* end of home page */
 
 
 /* only used on about page */
@@ -115,10 +115,23 @@ body {
 /* only used on contact page */
 .contact {
     flex: 4;
-    text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
     color: #676064;
-    font-weight: bold;
     text-align: center;
 }
+
+.contact h1 {
+    text-emphasis: bold;
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 50px;
+}
+
+.contact a {
+    color:#676064;
+    text-decoration: none;
+    text-align: center;
+    margin-right: 40px;
+}
+
 /* end of contact page */
