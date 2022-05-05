@@ -25,7 +25,7 @@ SO THAT I can review samples of their work and assess whether they're a good can
 ## Screenshots
 
 Main Page
-![Main Page Screenshot](./assets/images/portfolio-home-screenshot.png)
+![Main Page Screenshot](./assets/images/screenshots/portfolio-home-screenshot.png)
 
 About Me Page
 ![About Me Page Screenshot](./assets/images/screenshots/portfolio-about-screenshot.png)
