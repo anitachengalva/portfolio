@@ -2,7 +2,7 @@
 body {
     background-color: #E6DBD1;
     
-    background-image: url("images/bgwallpaper.jpg");
+    background-image: url("./assets/images/bgwallpaper.jpg");
     height: 500px; 
     background-position: center;
 }
