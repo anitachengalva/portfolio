@@ -89,6 +89,23 @@ body {
     justify-content: baseline;
 }
 
+.proj-flex {
+    display: flex;
+    flex-direction: column;
+}
+
+.proj-flex-top {
+    flex: 1
+}
+
+.proj-flex-bottom {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: baseline;
+}
+
 .proj {
     flex: 1;
     flex-wrap: wrap;
@@ -99,8 +116,16 @@ body {
 
 .proj h3 {
     text-decoration: none;
+    text-decoration-line: none;
     font-family: Arial, Helvetica, sans-serif;
     color: #676064;
+}
+
+#main-proj {
+    height: 300px;
+    width: 700px;
+    border: 2px;
+    border-radius: 10px;
 }
 
 .proj img {
