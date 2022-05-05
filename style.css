@@ -20,6 +20,7 @@ body {
     background-color: #748277;
     min-height: 100vh;
     border: 1px solid #676064;
+    margin-right: 3%;
 }
 
 .sidenav a {
@@ -83,16 +84,31 @@ body {
     flex: 4;
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     justify-content: baseline;
 }
 
-.proj1 {
+.proj {
     flex: 1;
+    flex-wrap: wrap;
+    position: relative;
+    justify-content: space-around;
+    margin: 1%;
 }
 
-.proj2 {
-    flex: 1;
+.proj h3 {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #676064;
 }
+
+.proj img {
+    height: 300px;
+    width: 300px;
+    border: 2px;
+    border-radius: 10px;
+}
+
 /* end of projects page */
 
 
